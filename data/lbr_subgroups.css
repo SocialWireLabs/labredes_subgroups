@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+.lbr_subgroup_actions, .lbr_subgroups_profile_options {
+	float: right;
+}
+
+.lbr_subgroups_userlist {
+	width: 100%;
+}
+
+.lbr_subgroups_userlist .lbr_subgroups_username {
+	width: 100%;
+	padding-left: 5px;
+}
+
+.lbr_subgroups_membership a {
+	float: right;
+}
+
+.lbr_subgroup_unavailable {
+	display: none;
+}
+
+.lbr_subgroup_hidden_edit {
+	display:none;
+}
